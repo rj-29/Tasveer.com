@@ -1,9 +1,9 @@
-# Tasveer.com
+# Tasveer.com :-
 
 Tasveer.com is a visually engaging website designed to showcase captivating imagery and provide a platform for photographers, designers, and visual enthusiasts. It features a modern interface with a sidebar menu, a search function, and a gallery of popular collections.
 
 
-# Table of Contents
+# Table of Contents :-
 
 * Features
 * Installation
@@ -11,14 +11,14 @@ Tasveer.com is a visually engaging website designed to showcase captivating imag
 * Contributing
 
 
-# Features
+# Features :-
 
 * Sidebar Menu: Provides easy navigation to different sections.
 * Gallery: Displays popular image collections.
 * Social Media Integration: Links to various social media platforms.
 
   
-# Installation
+# Installation :-
 
 To get a local copy of this project up and running, follow these simple steps:
 
@@ -27,7 +27,7 @@ To get a local copy of this project up and running, follow these simple steps:
 3. Open the Project: Open tasveer.html in your preferred web browser to view the website.
 
 
-# Contributing
+# Contributing :-
 
 We welcome contributions to improve the project. If you have suggestions or find bugs, please follow these steps:
 
@@ -38,7 +38,7 @@ We welcome contributions to improve the project. If you have suggestions or find
 5. Create a Pull Request Submit a pull request detailing your changes for review.
 
 
-# Tech Stacks
+# Tech Stacks :-
 
 HTML, CSS & Bootstrap only.
 
