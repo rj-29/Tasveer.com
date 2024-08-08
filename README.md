@@ -1,6 +1,5 @@
 # Tasveer.com
 
-
 Tasveer.com is a visually engaging website designed to showcase captivating imagery and provide a platform for photographers, designers, and visual enthusiasts. It features a modern interface with a sidebar menu, a search function, and a gallery of popular collections.
 
 
@@ -27,15 +26,7 @@ To get a local copy of this project up and running, follow these simple steps:
 2. Navigate to the Project Directory: bashCopy code  cd tasveer.com 
 3. Open the Project: Open tasveer.html in your preferred web browser to view the website.
 
-   
-# Usage
 
-* Search Functionality: Type into the search box and click the search icon to find specific content.
-* Sidebar Menu: Click the hamburger icon to open the sidebar menu, where you can navigate to Login, Signup, Gallery, Events, and more.
-* Gallery: Browse through popular collections of images displayed in the gallery section.
-* Social Media Links: Click on social media icons to visit Tasveer.com’s profiles on Facebook, Twitter, Instagram, and YouTube.
-
-  
 # Contributing
 
 We welcome contributions to improve the project. If you have suggestions or find bugs, please follow these steps:
@@ -49,7 +40,7 @@ We welcome contributions to improve the project. If you have suggestions or find
 
 # Tech Stacks
 
-HTML, CSS & bootstrap only.
+HTML, CSS & Bootstrap only.
 
 
 
